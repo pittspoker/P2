@@ -75,6 +75,13 @@ article{
     font-size: 1em;
 }
 
+.more-class-button a{
+    text-decoration:none;
+    color: inherit;
+    font-size: 1.3em;
+    padding-left: 15px;
+}
+
 /* Populaire */
 
 .star-content{
